@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: ravekops/newimage:latest
+          image: cyberorcas/ravekops:latest
           imagePullPolicy: Always
